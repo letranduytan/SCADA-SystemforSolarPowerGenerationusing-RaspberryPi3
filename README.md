@@ -105,9 +105,4 @@ The system is divided into 3 SCADA levels:
 3. **Cloud Integration** *(optional)*  
    - MQTT Broker or Cloud Monitoring  
 
----
 
-
-## License
-This project is for **educational and research purposes only**.  
-Commercial use is not allowed without permission from the development team.
