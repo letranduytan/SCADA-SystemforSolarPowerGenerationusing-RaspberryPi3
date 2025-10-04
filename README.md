@@ -10,7 +10,7 @@
 The **SCADA Solar Rooftop System** project aims to build a **smart monitoring and control system** for rooftop solar power using SCADA technology.  
 It integrates hardware (PV, Inverter, Battery, Data Logger, Raspberry Pi) and software (SCADA/HMI, Cloud) to **monitor, control, and optimize solar energy operations**.
 
-✨ **Key Benefits**:
+**Key Benefits**:
 - Reduce electricity costs.
 - Utilize clean & renewable energy.
 - Real-time monitoring and predictive maintenance.
@@ -81,7 +81,7 @@ The system is divided into 3 SCADA levels:
 
 ---
 
-## 📊 Monitored Parameters
+## Monitored Parameters
 
 - Generated power (kW)  
 - Voltage & Current (DC/AC)  
@@ -118,6 +118,6 @@ The system is divided into 3 SCADA levels:
 ---
 
 
-## 📌 License
+## License
 This project is for **educational and research purposes only**.  
 Commercial use is not allowed without permission from the development team.
