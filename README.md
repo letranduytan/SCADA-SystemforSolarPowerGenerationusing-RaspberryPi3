@@ -1,5 +1,11 @@
 # SCADA System for Solar Power Generationusing Raspberry Pi 3
 
+<p align="center">
+<a href="https://fb.com/duytan.hh" target="_blank"><img src="https://img.shields.io/badge/Facebook%20-%20%230866FF"></a>
+<a href="https://t.me/duytan2003" target="_blank"><img src="https://img.shields.io/badge/Telegram%20-%20%2333CCFF"></a>
+<a href="https://www.linkedin.com/in/l%C3%AA-tr%E1%BA%A7n-duy-t%C3%A2n-81112a23a/" target="_blank"><img src="https://img.shields.io/badge/Linkedin%20-%20%2300CCFF"></a>
+</p>
+
 ## 📌 Introduction
 The **SCADA Solar Rooftop System** project aims to build a **smart monitoring and control system** for rooftop solar power using SCADA technology.  
 It integrates hardware (PV, Inverter, Battery, Data Logger, Raspberry Pi) and software (SCADA/HMI, Cloud) to **monitor, control, and optimize solar energy operations**.
@@ -15,7 +21,7 @@ It integrates hardware (PV, Inverter, Battery, Data Logger, Raspberry Pi) and so
 ## 🏗️ System Architecture
 
 The system is divided into 3 SCADA levels:
-
+![scada](img/scada_solar.jpg)
 1. **Field Level**  
    - PV Array (solar panels)  
    - Combiner Box, Fuse, AC Breaker  
@@ -37,7 +43,7 @@ The system is divided into 3 SCADA levels:
 ---
 
 ## ⚡ Workflow
-
+![scada](img/scada.png)
 1. **Solar Energy Conversion**  
    PV array → generates DC power.  
 
