@@ -91,16 +91,6 @@ The system is divided into 3 SCADA levels:
 
 ---
 
-## EVN Regulations (Vietnam – Power Plan VIII)
-
-- Rooftop solar is considered **distributed energy** to reduce grid load.  
-- Systems **<100 kW**: notification to EVN only.  
-- Systems **≥100 kW**: must register as power generation source.  
-- Excess electricity sales require **Power Purchase Agreement (PPA)** with EVN.  
-- Governed by **Decree 18/2025 & 58/2025**.  
-
----
-
 ## Installation & Deployment
 
 1. **Setup Raspberry Pi 3**  
